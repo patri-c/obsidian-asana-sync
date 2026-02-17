@@ -1,6 +1,6 @@
 {
   "name": "obsidian-asana-sync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bidirectional sync of Asana tasks with Obsidian notes",
   "main": "main.js",
   "scripts": {
