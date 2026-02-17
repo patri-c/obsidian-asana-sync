@@ -1,0 +1,9 @@
+{
+  "id": "asana-sync",
+  "name": "Asana Sync",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Bidirectional sync of Asana tasks with Obsidian notes. Sync My Tasks or specific projects to dedicated notes with two-way completion tracking.",
+  "author": "Patric",
+  "isDesktopOnly": false
+}
