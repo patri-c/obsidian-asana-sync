@@ -1,9 +1,9 @@
 {
   "id": "asana-sync",
   "name": "Asana Sync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.5.0",
   "description": "Bidirectional sync for Asana tasks. Sync your projects and My Tasks to dedicated notes with two-way completion tracking, due dates, and assignees.",
-  "author": "Patric",
+  "author": "JeanPatric",
   "isDesktopOnly": false
 }
